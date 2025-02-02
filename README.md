@@ -1,4 +1,4 @@
-# FSK-ModulatIon-and-AdaptIve-NoIse-CancellatIon-usIng-USRP-on-LABVIEW
+# FSK-Modulation-and-Adaptive-Noise-Cancelation-using-USRP-on-LABVIEW
 The objective of this project is to design a communication system that suppresses periodic noises and 
 error correction on received audio signals using Universal Software Radio Peripheral (USRP). 
 Firstly, the frequency Shift Keying (FSK) modulation technique was used to send data through the 
